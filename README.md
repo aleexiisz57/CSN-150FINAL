@@ -5,7 +5,7 @@ StormBreaker
 # Purpose
 The purpose of this tool is to gain unauthorized access to the audio, video and gps capabilities of devices, potentially for surveillance or eavesdropping purposes. It's important to note that the use of such tools for unauthorized access or malicious activities is illegal and unethical.
 # Equiment
-Laptop and charing cable. (this tool is software based and it does not require any external components)
+Laptop and charging cable. (this tool is software based and it does not require any external components)
 # Documentation i followed 
 https://www.youtube.com/watch?v=UkoPCbp_vBk
 https://github.com/ultrasecurity/Storm-Breaker
